@@ -1,1 +1,3 @@
-# E-71-Shariq_Jamil
+Repo for E-71 Agile Software Development
+
+Shariq Jamil
